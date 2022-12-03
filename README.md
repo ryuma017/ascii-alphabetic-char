@@ -1,9 +1,9 @@
 <div align="center">
 <samp>
 
-# Ascii-Alphabetic-Char
+# ascii-alphabetic-char
 
-**Check if a char is alphabetic or not at compile time**
+**Check if a char is alphabetic or not at compile time.**
 
 </samp>
 </div>
