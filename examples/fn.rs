@@ -4,7 +4,7 @@ fn reject_non_alphabetic_at_compile_time<const ALPHABETIC_CHAR: char>()
 where
     char: AsciiAlphabeticChar<ALPHABETIC_CHAR>,
 {
-    println!("{} is not an ASCII alphabetic character", ALPHABETIC_CHAR);
+    println!("{} is an ASCII alphabetic character.", ALPHABETIC_CHAR);
 }
 
 fn main() {
