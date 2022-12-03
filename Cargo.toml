@@ -1,8 +1,8 @@
 [package]
 name = "ascii-alphabetic-char"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-description = "ASCII alphabetic character"
+description = "Traits for ASCII alphabetic characters."
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/ryuma017/ascii-alphabetic-char"
